@@ -1,4 +1,4 @@
-package org.ostech.dsa.chanllanges;
+package org.ostech.dsa.chanllanges.round1;
 
 public class MaxDiff {
     public static int findMaxDifference(int[] ints) {

@@ -1,4 +1,4 @@
-package org.ostech.dsa.chanllanges;
+package org.ostech.dsa.chanllanges.round1;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

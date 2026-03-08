@@ -1,4 +1,4 @@
-package org.ostech.dsa.chanllanges;
+package org.ostech.dsa.chanllanges.round1;
 
 public class ReverseString {
     public static String reverse(String s) {

@@ -1,6 +1,7 @@
 package org.ostech.dsa.chanllanges;
 
 import org.junit.jupiter.api.Test;
+import org.ostech.dsa.chanllanges.round1.TwoSum;
 
 import static org.junit.jupiter.api.Assertions.*;
 
